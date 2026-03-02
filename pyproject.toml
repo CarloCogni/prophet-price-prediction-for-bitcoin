@@ -1,0 +1,17 @@
+[project]
+name = "m5u1-time-series-data-bitcoin"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "streamlit>=1.40",
+    "altair>=5,<6",
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn",
+    "prophet",
+    "statsmodels",
+    "scikit-learn",
+    "plotly",
+]
