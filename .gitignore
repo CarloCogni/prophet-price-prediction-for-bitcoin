@@ -1,0 +1,15 @@
+# PyCharm specific
+.idea/
+
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Streamlit specific (optional, but good practice)
+.streamlit/secrets.toml
